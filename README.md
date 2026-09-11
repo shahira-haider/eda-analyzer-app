@@ -30,7 +30,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-Coming soon (will be deployed on Streamlit Community Cloud)
+https://eda-analyzer-app-shahirahaider-dksbq8hca4idupvvukjw2y.streamlit.app/
 
 ## 👩‍💻 Author
 
